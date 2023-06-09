@@ -39,7 +39,7 @@ export default function Registerform() {
       city: yup.string().required("Select City "),
       address: yup.string().required("Address Required"),
       gender : yup.string().required("Select required"),
-      zipcode: yup.string().max(6).min(6).required("Enter required"),
+      zipcode: yup.string().max(6).required("Enter required"),
       website: yup.string().required("Enter Domain Sites")
 
     })
