@@ -29,18 +29,18 @@
       "cloudinaryImage": "https://res.cloudinary.com/daqoq4ynd/image/upload/v1686303555/profile/it1aqjznwyskqfcak5aj.jpg"
     },
     {
-      "id": 3,
-      "firstname": "vijay",
+      "firstname": "Vijay",
       "lastname": "ved",
-      "phone": "916555555555",
-      "email": "vijay@gmail.com",
+      "email": "sdftgh@gmail.com",
+      "phone": "915454545454",
       "city": "Ahmedabad",
       "state": "Gujarat",
       "gender": "male",
-      "address": "7, daxini Maninagar ",
-      "zipcode": "545465",
-      "website": "www.yahoo.com",
-      "cloudinaryImage": "https://res.cloudinary.com/daqoq4ynd/image/upload/v1686303532/profile/sil9fhu5fe2cfsuklun1.jpg"
+      "address": "drfhgfsjh",
+      "zipcode": "380013",
+      "website": "https://www.google.in",
+      "cloudinaryImage": "https://res.cloudinary.com/daqoq4ynd/image/upload/v1686316700/profile/wwll2lzetja9ozl9gpor.jpg",
+      "id": 3
     }
   ]
 }

@@ -35,12 +35,11 @@ export default function Registerform() {
       firstname: yup.string().required("Enter the First Name"),
       lastname: yup.string("Enter the Last Name"),   
       email: yup.string('Not a proper email').email().required("Input Valid Email Address"),      
-      phone: yup.string().min(8).required("Required"),
       state: yup.string().required("Select State"),
       city: yup.string().required("Select City "),
       address: yup.string().required("Address Required"),
       gender : yup.string().required("Select required"),
-      zipcode: yup.number().max(6).required("Enter required"),
+      zipcode: yup.string().max(6).min(6).required("Enter required"),
       website: yup.string().required("Enter Domain Sites")
 
     })
@@ -51,7 +50,6 @@ async function validateForm() {
       firstname,
       lastname,
       email,     
-      phone ,
       city: city.name,
       state: state.name,
       gender,
