@@ -1,0 +1,46 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "firstname": "Gorav",
+      "lastname": "Ved",
+      "phone": "913486597523",
+      "email": "goravkumaved44@gmail.com",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "gender": "male",
+      "address": "7, laxi society danilimda Ahemdabad",
+      "zipcode": "774411",
+      "website": "www.google.com",
+      "cloudinaryImage": "https://res.cloudinary.com/daqoq4ynd/image/upload/v1686303410/profile/u1gmfxiq0wfogpcnpnre.jpg"
+    },
+    {
+      "id": 2,
+      "firstname": "jainish",
+      "lastname": "gajjar",
+      "phone": "917896543216",
+      "email": "jainish@gmail,com",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "gender": "male",
+      "address": "nava vadaj Ahemdabad",
+      "zipcode": "987654",
+      "website": "www.demo.com",
+      "cloudinaryImage": "https://res.cloudinary.com/daqoq4ynd/image/upload/v1686303555/profile/it1aqjznwyskqfcak5aj.jpg"
+    },
+    {
+      "id": 3,
+      "firstname": "vijay",
+      "lastname": "ved",
+      "phone": "916555555555",
+      "email": "vijay@gmail.com",
+      "city": "Ahmedabad",
+      "state": "Gujarat",
+      "gender": "male",
+      "address": "7, daxini Maninagar ",
+      "zipcode": "545465",
+      "website": "www.yahoo.com",
+      "cloudinaryImage": "https://res.cloudinary.com/daqoq4ynd/image/upload/v1686303532/profile/sil9fhu5fe2cfsuklun1.jpg"
+    }
+  ]
+}

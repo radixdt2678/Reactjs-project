@@ -1,0 +1,7 @@
+header .nav-link:hover{
+    color: gray!important;
+    border-bottom: 2px solid gray;
+}
+.nav-link{
+    border-bottom: 2px solid white;
+}
